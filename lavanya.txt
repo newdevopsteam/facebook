@@ -1,3 +1,2 @@
 this is in new branch
-i am updating this line in master branch
 this is a new file
