@@ -1,3 +1,2 @@
-this is DButility file
-just making some modifications
+database commands
 this file contains database related concepts
