@@ -1,2 +1,2 @@
-just making some modifications
+database commands
 this file contains database related concepts
