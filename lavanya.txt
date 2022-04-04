@@ -1,2 +1,3 @@
 a new begin
+a new line added
 this is a new file
